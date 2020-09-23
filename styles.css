@@ -1,6 +1,6 @@
 
 body {
-    background-image: url(images/BG.png);
+    background: url(images/BG.png) no-repeat;
 }
 
 .header {

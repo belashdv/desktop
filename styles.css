@@ -1,0 +1,29 @@
+
+body {
+    background-image: url(images/BG.png);
+}
+
+.header {
+    display: block;
+    position: relative;
+    margin-left: 558px;
+    margin-top: 121px;
+    z-index: 10;
+    height: 150px; 
+    width: 324px; 
+    border: 1px;
+    border-radius: 3px;
+    background: linear-gradient(to right, #AB47BC 0%, #7B1FA2 100%);
+}
+
+.content {
+    display: block;
+    position: relative;
+    margin-left: 538px;
+    margin-top: -111px;
+    height: 470px; 
+    width: 365px; 
+    border: 1px;
+    border-radius: 3px;
+    background-color: white;
+}

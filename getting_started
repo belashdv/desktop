@@ -1,0 +1,8 @@
+echo "# Hello_world_1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git push -u origin master 
+git commit -m "sign up"
+git commit -m "or be classical"
+git commit -m "get started"

@@ -1,0 +1,13 @@
+﻿#style.css > .menu-item
+.menu-item {
+    color: black;
+    padding:10px;
+    border:2px solid black;
+}
+ #sign-up {
+     width: 300px;
+     margin: 20px;
+ }
+ .large {
+     padding:30px;
+ }

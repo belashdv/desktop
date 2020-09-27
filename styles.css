@@ -75,3 +75,86 @@ nav {
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 
+.content {
+    display: block;
+    position: relative;
+    margin-left: 538px;
+    margin-top: -111px;
+    height: 470px; 
+    width: 365px; 
+    border: 1px;
+    border-radius: 3px;
+    background-color: white;
+}
+#intro {
+    position: relative;
+    align-content: center;
+    font-family: 'Roboto';
+    width: 94px;
+    height: 17px;
+    font-style:normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: black;
+    top: -20px;
+    left: 120px;
+}
+
+#fname {
+    position: relative;
+    width: 308px;
+    height: 31px;
+    color: #999999;
+    top: -10px;
+    filter: drop-shadow(0px, 4px, 4px rgba(0, 0, 0, 0.25));
+    border: hidden;
+    border-bottom:solid;
+    border-bottom-color: rgba(210, 210, 210, 1);
+}
+
+#mail {
+    position: relative;
+    width: 308px;
+    height: 32px;
+    border: hidden;
+    border-bottom:solid;
+    border-bottom-color: rgba(210, 210, 210, 1);
+    top: 20px;
+}
+
+#pass {
+    position: relative;
+    width: 308px;
+    height: 32px;
+    border: hidden;
+    border-bottom:solid;
+    border-bottom-color: rgba(210, 210, 210, 1);
+    top: 50px;
+}
+
+button {
+    position: relative;
+    bottom: -90px;
+    left: 130px;
+    font-weight: 400;
+    width: 89px;
+    height: 17px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #9C27B0;
+    border: hidden;
+}
+
+#second {
+    top: 30px;
+    position:relative;
+}
+
+#third {
+    position:relative;
+    top: 60px;
+}

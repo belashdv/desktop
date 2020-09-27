@@ -75,23 +75,12 @@ nav {
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-.content {
-    display: block;
-    position: relative;
-    margin-left: 538px;
-    margin-top: -111px;
-    height: 470px; 
-    width: 365px; 
-    border: 1px;
-    border-radius: 3px;
-    background-color: white;
-}
 #intro {
     position: relative;
     align-content: center;
     font-family: 'Roboto';
-    width: 94px;
-    height: 17px;
+    width: auto;
+    height: auto;
     font-style:normal;
     font-weight: normal;
     font-size: 14px;
@@ -103,8 +92,9 @@ nav {
 
 #fname {
     position: relative;
-    width: 308px;
-    height: 31px;
+    width: 50%;
+    height: 32px;
+   
     color: #999999;
     top: -10px;
     filter: drop-shadow(0px, 4px, 4px rgba(0, 0, 0, 0.25));
@@ -127,6 +117,7 @@ nav {
     position: relative;
     width: 308px;
     height: 32px;
+    
     border: hidden;
     border-bottom:solid;
     border-bottom-color: rgba(210, 210, 210, 1);

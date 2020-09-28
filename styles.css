@@ -75,7 +75,7 @@ nav {
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-#intro {
+.intro {
     position: relative;
     align-content: center;
     font-family: 'Roboto';
@@ -124,7 +124,7 @@ nav {
     top: 50px;
 }
 
-button {
+.btn {
     position: relative;
     bottom: -90px;
     left: 130px;

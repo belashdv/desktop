@@ -1,6 +1,0 @@
-git clone https://github.com/belashdv/desktop
-git pool
-git add .
-git commit -m "added navigation"
-git pool 
-git push

@@ -105,7 +105,7 @@ nav {
 
 #mail {
     position: relative;
-    width: 308px;
+    width: 50%;
     height: 32px;
     border: hidden;
     border-bottom:solid;
@@ -115,7 +115,7 @@ nav {
 
 #pass {
     position: relative;
-    width: 308px;
+    width: 50%;
     height: 32px;
     
     border: hidden;

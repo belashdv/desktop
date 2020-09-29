@@ -1,4 +1,7 @@
 /* Tag styles */
+html {
+    width: 100%;
+}
 
 body {
     background: url(images/BG.png) no-repeat;
@@ -21,7 +24,7 @@ a {
 }
 
 img {
-    position: absolute;
+    position: relative;
     padding-right: 10px;
 }
 
@@ -42,6 +45,19 @@ nav {
     margin-right: auto;
     width: 80%;
     
+}
+
+.head {
+    position: relative;
+    text-align: center;
+    width: 69px;
+    height: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
 }
 
 /* Middle part */
@@ -78,7 +94,7 @@ nav {
 .intro {
     position: relative;
     align-content: center;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     width: auto;
     height: auto;
     font-style:normal;
@@ -131,7 +147,7 @@ nav {
     font-weight: 400;
     width: 89px;
     height: 17px;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;

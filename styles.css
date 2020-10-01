@@ -118,10 +118,11 @@ nav {
 }
 
 .pure-form {
-    display: inline-block;
     position: relative;
     padding-left: 30px;
     padding-right: 20px;
+    border: hidden;
+    filter: drop-shadow(0px, 4px, 4px rgba(0, 0, 0, 0.25));
   
 }
 
@@ -151,13 +152,6 @@ nav {
     top: 90px;
 }    
 
-.pure-form {
-    width: 100%;
-    border: hidden;
-
-    position: relative;
-    filter: drop-shadow(0px, 4px, 4px rgba(0, 0, 0, 0.25));
-}
 input {
     width: 308px;
     height: 31px;
@@ -179,6 +173,6 @@ button {
     background: transparent;
     display: block;
     position: relative;
-    bottom: -15px;
+    bottom: -35px;
     margin: auto;
 }
